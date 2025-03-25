@@ -1,7 +1,7 @@
 ## 👋 Hi I'm Christian! 
 
-👋 I'm an aspiring Software Engineer and Project Manager currently pursuing a Bachelor of Science in Computer Science. <be>
-I have experience in various web technologies and enjoy learning new skills and improving my craft. 
+👋 I’m an aspiring Software Engineer and Project Manager with a Bachelor of Science in Computer Science. Passionate about technology and innovation, and I have experience in various web technologies and thrive on learning new skills to refine my craft.<be>
+I enjoy solving complex problems, managing projects efficiently, and collaborating with teams to build impactful solutions. 
 
 When I'm not coding, I enjoy hiking, reading, and exploring new places. I'm always open to new opportunities and collaborations.
 
